@@ -99,7 +99,7 @@ const Footer = () => {
   const socialMedia = [
     {
       Icon: FaGithub,
-      link: 'https://github.com/Luson045/medi-connect',
+      link: 'https://github.com',
       color: '#333',
     },
     { Icon: FaDiscord, link: 'https://discord.gg', color: '#7289DA' },

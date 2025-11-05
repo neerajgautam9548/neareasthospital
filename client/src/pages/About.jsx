@@ -19,8 +19,8 @@ const teamMembers = [
     description:
       'Luson Basumatary brings a wealth of experience in software development and a passion for innovation. He leads the team in creating a robust and user-friendly platform.',
     imageUrl: luson,
-    linkedin: 'https://www.linkedin.com/in/luson-basumatary-79a93b244/',
-    github: 'https://github.com/Luson045',
+    linkedin: 'https://www.linkedinmatary-79a93b244/',
+    github: 'https://github.com',
     email: 'mailto:luson@example.com',
   },
   {
@@ -30,8 +30,8 @@ const teamMembers = [
     description:
       'Rohit specializes in crafting intuitive user interfaces, translating complex requirements into accessible designs.',
     imageUrl: 'https://via.placeholder.com/150',
-    linkedin: 'https://www.linkedin.com/in/luson-basumatary',
-    github: 'https://github.com/luson045',
+    linkedin: 'https://www.linkeon-basumatary',
+    github: 'https://github.com/',
     email: 'mailto:luson@example.com',
   },
   {
